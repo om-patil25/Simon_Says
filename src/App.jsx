@@ -1,4 +1,4 @@
-import SimonSays from "./Pages/SimonSays";
+import SimonSays from "./pages/SimonSays";
 
 const App = () => {
   return (
